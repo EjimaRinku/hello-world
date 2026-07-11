@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "ソフトウェア工学 2026"
+layout: page
+title: "Software Eng. Lecture Notes"
+permalink: /docs/softwareEng2026/
 ---
 
 ## 第1回
@@ -25,3 +26,6 @@ title: "ソフトウェア工学 2026"
 ## 第6回 WBS
 
 第6回では、WBS（Work Breakdown Structure）について学んだ。WBSとは、プロジェクトを細かな作業単位に分解し、階層的に整理したものである。WBSを作成することで、プロジェクトのスコープが明確になり、必要な作業の洗い出しや進捗管理が容易になる。また、WBSを作成する際には、トップダウン方式やバックキャスティングの考え方を用い、作業の漏れや重複がないようにMECEを意識することが重要である。WBSはプロジェクトを円滑に進めるための基本的な管理手法であると学んだ。
+
+
+[Software Eng. Lecture Notes](softwareEng2026.md)
